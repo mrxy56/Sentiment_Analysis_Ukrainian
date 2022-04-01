@@ -1,4 +1,4 @@
-# Sentiment_Analysis_Ukrainian
+# Sentiment_Analysis_Ukrainian -- For ITWS Hackathon (ITWS黑客马拉松）
 ## by Tianqi Zhao and Stone McLaren
 ## [Introduction]
 ### Ukraine Humanitarian/Refugee Crisis has become a world-class spot recently. In this project, we did sentiment analysis about 900 Tweets from Twitter about people's views of Ukrainian Crisis. And we also created a classifier using 90% of the Tweets, then test it on 90 Tweets to get the Confusion Matrix.
